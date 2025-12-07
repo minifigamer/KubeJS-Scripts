@@ -149,7 +149,7 @@ function crushingMerge() {
                         newResults.push({
                             item: oldResult.item,
                             count: oldResult.count,
-                            chance: oldResult.chance / recipenum
+                            chance: oldResult.chance
                         });
                     }
 
